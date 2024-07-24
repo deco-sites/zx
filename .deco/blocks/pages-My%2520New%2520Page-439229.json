@@ -1,0 +1,22 @@
+{
+  "name": "My New Page",
+  "path": "/teste",
+  "sections": [
+    {
+      "__resolveType": "htmx/sections/htmx.tsx"
+    },
+    {
+      "__resolveType": "htmx/sections/htmx.tsx"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/NewSection.tsx"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
